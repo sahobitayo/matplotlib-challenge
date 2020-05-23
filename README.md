@@ -21,3 +21,12 @@ I have been given access to the datafrom. In this study, 250 mice identified wit
 8. Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 
 9.  write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
+
+### Results
+The results and analysis can be found [here](https://github.com/sahobitayo/matplotlib-challenge/blob/master/Pymaceutical.ipynb)
+
+### Tools Used
+- **Python**
+- **Pandas library**
+- **Jupyter Notebook**
+- **Matplotlib library**
